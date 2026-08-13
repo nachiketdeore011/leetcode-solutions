@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nachiketdeore011/leetcode-solutions/tree/master/0001-two-sum) |
+| [1396-design-underground-system](https://github.com/nachiketdeore011/leetcode-solutions/tree/master/1396-design-underground-system) |
 ## Two Pointers
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 ## Design
 |  |
 | ------- |
+| [1396-design-underground-system](https://github.com/nachiketdeore011/leetcode-solutions/tree/master/1396-design-underground-system) |
 | [1603-design-parking-system](https://github.com/nachiketdeore011/leetcode-solutions/tree/master/1603-design-parking-system) |
 ## Simulation
 |  |
@@ -33,4 +35,8 @@
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/nachiketdeore011/leetcode-solutions/tree/master/1603-design-parking-system) |
+## String
+|  |
+| ------- |
+| [1396-design-underground-system](https://github.com/nachiketdeore011/leetcode-solutions/tree/master/1396-design-underground-system) |
 <!---LeetCode Topics End-->
