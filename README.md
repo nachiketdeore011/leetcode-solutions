@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/nachiketdeore011/leetcode-solutions/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/nachiketdeore011/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/nachiketdeore011/leetcode-solutions/tree/master/0018-4sum) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/nachiketdeore011/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,4 +40,13 @@
 |  |
 | ------- |
 | [1396-design-underground-system](https://github.com/nachiketdeore011/leetcode-solutions/tree/master/1396-design-underground-system) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/nachiketdeore011/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/nachiketdeore011/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/nachiketdeore011/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
