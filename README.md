@@ -32,6 +32,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/nachiketdeore011/leetcode-solutions/tree/master/0067-add-binary) |
 | [1603-design-parking-system](https://github.com/nachiketdeore011/leetcode-solutions/tree/master/1603-design-parking-system) |
 ## Counting
 |  |
@@ -40,6 +41,7 @@
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/nachiketdeore011/leetcode-solutions/tree/master/0067-add-binary) |
 | [1396-design-underground-system](https://github.com/nachiketdeore011/leetcode-solutions/tree/master/1396-design-underground-system) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nachiketdeore011/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Segment Tree
@@ -74,4 +76,12 @@
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/nachiketdeore011/leetcode-solutions/tree/master/0112-path-sum) |
+## Math
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/nachiketdeore011/leetcode-solutions/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/nachiketdeore011/leetcode-solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
