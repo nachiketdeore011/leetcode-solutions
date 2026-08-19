@@ -8,6 +8,7 @@
 | [0016-3sum-closest](https://github.com/nachiketdeore011/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/nachiketdeore011/leetcode-solutions/tree/master/0018-4sum) |
 | [0074-search-a-2d-matrix](https://github.com/nachiketdeore011/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0704-binary-search](https://github.com/nachiketdeore011/leetcode-solutions/tree/master/0704-binary-search) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nachiketdeore011/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Hash Table
 |  |
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/nachiketdeore011/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0704-binary-search](https://github.com/nachiketdeore011/leetcode-solutions/tree/master/0704-binary-search) |
 ## Matrix
 |  |
 | ------- |
