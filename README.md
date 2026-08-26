@@ -93,6 +93,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/nachiketdeore011/leetcode-solutions/tree/master/0067-add-binary) |
+| [0868-binary-gap](https://github.com/nachiketdeore011/leetcode-solutions/tree/master/0868-binary-gap) |
 ## DP on Trees
 |  |
 | ------- |
