@@ -20,6 +20,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/nachiketdeore011/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/nachiketdeore011/leetcode-solutions/tree/master/0018-4sum) |
+| [0086-partition-list](https://github.com/nachiketdeore011/leetcode-solutions/tree/master/0086-partition-list) |
 ## Sorting
 |  |
 | ------- |
@@ -98,4 +99,8 @@
 |  |
 | ------- |
 | [0563-binary-tree-tilt](https://github.com/nachiketdeore011/leetcode-solutions/tree/master/0563-binary-tree-tilt) |
+## Linked List
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/nachiketdeore011/leetcode-solutions/tree/master/0086-partition-list) |
 <!---LeetCode Topics End-->
