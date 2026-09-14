@@ -24,6 +24,7 @@
 | [0011-container-with-most-water](https://github.com/nachiketdeore011/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/nachiketdeore011/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/nachiketdeore011/leetcode-solutions/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/nachiketdeore011/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0086-partition-list](https://github.com/nachiketdeore011/leetcode-solutions/tree/master/0086-partition-list) |
 ## Sorting
 |  |
@@ -108,6 +109,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/nachiketdeore011/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0086-partition-list](https://github.com/nachiketdeore011/leetcode-solutions/tree/master/0086-partition-list) |
 ## Backtracking
 |  |
